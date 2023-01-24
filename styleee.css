@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+    font-family: cursive;
+}
+
+.main{
+    height: 100vh;
+    background: url('baground 2.jpeg');
+}
